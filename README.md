@@ -3,8 +3,8 @@ myTask is a demo web app based on javascript and the use of jQuery library
 
 ```
 MyTask Demo App 
-    (  |--Task (user input)--| 
-      |--Required by (user input)--|
+    ( |--Task* (user input no more than 20 characters)--| 
+      |--Required by* (user input )--|
       |--For (user input)--| 
       |--Category (drop down option)--|
       |-- Save task   |-- Clear task
